@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1f77b4"              # Blue for primary elements (buttons, links)
+backgroundColor = "#f8f9fa"           # Light gray background (not white)
+secondaryBackgroundColor = "#e9ecef"  # Slightly darker gray for sidebar and containers
+textColor = "#262730"                 # Dark gray for main text
+font = "sans serif"                   # Clean sans-serif font
